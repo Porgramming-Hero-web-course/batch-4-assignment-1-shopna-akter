@@ -32,6 +32,7 @@ Usage: helps to check between primitive types
 
 3.instanceof type
 To check if an object is an instance of a specific class or constructor function.
+
 Usage: it help us to check class instances
 
 4.in type
