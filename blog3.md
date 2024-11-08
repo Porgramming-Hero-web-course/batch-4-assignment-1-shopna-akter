@@ -23,13 +23,17 @@ if (isCat(animal)) {
 ## some type of typeguards.
 
 1.Literel type 
+To check if a variable has a specific literal value
 Usage: it help us to check against specific literel value
 
 2.typeof type
-Usage: checking primitive type
+to check if a variable is of a primitive type like string, number, boolean, or symbol
+Usage: helps to check between primitive types
 
 3.instanceof type
+To check if an object is an instance of a specific class or constructor function.
 Usage: it help us to check class instances
 
-4.in type 
+4.in type
+it help to check a object property
 Usage: checking if a property exist on project or not
