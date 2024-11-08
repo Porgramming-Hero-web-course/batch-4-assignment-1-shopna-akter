@@ -24,10 +24,12 @@ if (isCat(animal)) {
 
 1.Literel type 
 To check if a variable has a specific literal value
+
 Usage: it help us to check against specific literel value
 
 2.typeof type
 to check if a variable is of a primitive type like string, number, boolean, or symbol
+
 Usage: helps to check between primitive types
 
 3.instanceof type
@@ -37,4 +39,5 @@ Usage: it help us to check class instances
 
 4.in type
 it help to check a object property
+
 Usage: checking if a property exist on project or not
