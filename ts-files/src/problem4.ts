@@ -27,4 +27,4 @@ const rectangleArea = calculateShapeArea({
     width: 4,
     height: 6,
 });
-console.log(rectangleArea);
+console.log(circleArea);

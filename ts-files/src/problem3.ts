@@ -10,4 +10,4 @@ function countWordOccurrences(sentence: string  , word:string){
     
     return wordCount
 }
-console.log(countWordOccurrences("I love typescript and typescript", "typescript"))
+console.log(countWordOccurrences("I love typescript", "typescript"))
